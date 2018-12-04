@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycler&amp;ViewPager</string>
+
+    <string-array name="Main_list">
+        <item>PageRecycler</item>
+        <item>터치</item>
+    </string-array>
+</resources>
